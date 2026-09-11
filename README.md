@@ -11,12 +11,16 @@
 
 - 📫 How to reach me **sheikhkohinurrahman@gmail.com**
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kohin-Ibn-Nahae&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 👨‍💻 About Me
 
 Hi, I'm **Kohin** 👋 — a curious developer passionate about **web development, AI, and problem solving**. I enjoy building projects, exploring new technologies, and turning ideas into practical solutions. 🚀
 
 **Learn • Build • Explore • Repeat. 🌐🤖**
+
 
 ## 🌐 Socials:
 
