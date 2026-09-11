@@ -13,7 +13,9 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kohin-Ibn-Nahar&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kohin-Ibn-Nahar&theme=onedark&no-frame=true&column=6" alt="GitHub Trophies" />
+</p>
 
 ## 👨‍💻 About Me
 
