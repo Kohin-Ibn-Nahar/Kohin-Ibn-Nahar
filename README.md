@@ -12,11 +12,11 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1800&color=A78BFA&center=true&vCenter=true&width=950&lines=🔭+I’m+currently+working+on+Building+personal+projects+and+turning+ideas+into+practical+solutions.+🚀;🌱+I’m+currently+learning+Modern+web+technologies+and+the+evolving+world+of+AI.+🌐🤖;👯+I’m+looking+to+collaborate+on+Open-source+projects+and+interesting+ideas+where+I+can+learn+and+contribute.+🤝;🤝+I’m+looking+for+help+with+Exploring+better+ways+to+build%2C+learn%2C+and+solve+problems.+💡&repeat=true"
-    alt="Typing SVG"
+    src="./assets/intro.svg"
+    width="100%"
+    alt="Kohin introduction"
   />
 </p>
-
 <br/>
 
 <!-- ==================== ABOUT ME ==================== -->
