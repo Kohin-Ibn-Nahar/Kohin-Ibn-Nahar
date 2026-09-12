@@ -1,61 +1,21 @@
-<!-- ==================== HEADER ==================== -->
-
 <h1 align="center">Hi 👋, I'm Kohin</h1>
+<h3 align="center">Exploring the art of the web and the intelligence of tomorrow. 🌐🤖</h3>
 
-<h3 align="center">
-  Exploring the art of the web and the intelligence of tomorrow. 🌐🤖
-</h3>
+* 🔭 I’m currently working on **Building personal projects and turning ideas into practical solutions. 🚀**
 
-<br/>
+* 🌱 I’m currently learning **Modern web technologies and the evolving world of AI. 🌐🤖**
 
-<!-- Animated Introduction -->
+* 👯 I’m looking to collaborate on **Open-source projects and interesting ideas where I can learn and contribute. 🤝**
 
-<p align="center">
-  <img
-    src="./assets/intro.svg"
-    width="100%"
-    alt="Kohin introduction"
-  />
-</p>
-<br/>
+* 🤝 I’m looking for help with **Exploring better ways to build, learn, and solve problems. 💡**
 
-<!-- ==================== ABOUT ME ==================== -->
-
-<table>
-<tr>
-<td width="52%" valign="middle">
+* 📫 How to reach me **[sheikhkohinurrahman@gmail.com](mailto:sheikhkohinurrahman@gmail.com)**
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Kohin** 👋
+Hi, I'm **Kohin** 👋 — a curious developer passionate about **web development, AI, and problem solving**. I enjoy building projects, exploring new technologies, and turning ideas into practical solutions. 🚀
 
-I'm a curious developer passionate about **web development, AI, and problem solving**.
-
-I enjoy building projects, exploring new technologies, and turning ideas into practical solutions. 🚀
-
-<br/>
-
-> **🌐 Learn • Build • Explore • Repeat. 🤖**
-
-<br/>
-
-### 📫 Reach Me
-
-**Email:** sheikhkohinurrahman@gmail.com
-
-</td>
-
-<td width="48%" align="center">
-
-<img src="./assets/workspace.svg" width="100%" alt="Purple developer workspace with laptop, mouse and coffee mug"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ==================== SOCIALS ==================== -->
+**Learn • Build • Explore • Repeat. 🌐🤖**
 
 # 🌐 Socials
 
@@ -119,51 +79,26 @@ I enjoy building projects, exploring new technologies, and turning ideas into pr
 
 <br/>
 
-<!-- ==================== GITHUB STATS ==================== -->
-
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 <p align="center">
 
-<img
-  src="https://github-readme-stats.shion.dev/api?username=Kohin-Ibn-Nahar&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-  height="170"
-/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=Kohin-Ibn-Nahar&theme=github-dark-blue&hide_border=true"
-  height="170"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kohin-Ibn-Nahar&theme=github_dark&hide_border=true&layout=compact"
-  height="170"
-/>
-
-</p>
+<img src="https://github-readme-stats.shion.dev/api?username=Kohin-Ibn-Nahar&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" />
 
 <br/>
 
-<!-- ==================== DEV QUOTE ==================== -->
+<img src="https://streak-stats.demolab.com/?user=Kohin-Ibn-Nahar&theme=github_dark&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kohin-Ibn-Nahar&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</p>
 
 ### ✍️ Random Dev Quote
 
 <p align="center">
 
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-</p>
-
-<br/>
-
-<!-- ==================== FOOTER ==================== -->
-
-<p align="center">
-  <i>Building today. Learning always. Exploring endlessly. 🚀</i>
 </p>
